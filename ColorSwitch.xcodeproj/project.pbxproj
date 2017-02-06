@@ -300,6 +300,7 @@
 				B773E1791E42E72B002EDCCD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
